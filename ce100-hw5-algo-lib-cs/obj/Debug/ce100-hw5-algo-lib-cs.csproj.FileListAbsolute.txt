@@ -1,0 +1,6 @@
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-lib-cs\bin\Debug\ce100-hw5-algo-lib-cs.dll
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-lib-cs\bin\Debug\ce100-hw5-algo-lib-cs.pdb
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-lib-cs\obj\Debug\ce100-hw5-algo-lib-cs.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-lib-cs\obj\Debug\ce100-hw5-algo-lib-cs.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-lib-cs\obj\Debug\ce100-hw5-algo-lib-cs.dll
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-lib-cs\obj\Debug\ce100-hw5-algo-lib-cs.pdb

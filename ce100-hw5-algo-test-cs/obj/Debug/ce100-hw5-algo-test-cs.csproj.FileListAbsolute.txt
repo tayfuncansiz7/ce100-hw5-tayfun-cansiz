@@ -1,0 +1,17 @@
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\bin\Debug\ce100-hw5-algo-test-cs.dll
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\bin\Debug\ce100-hw5-algo-test-cs.pdb
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\bin\Debug\ce100-hw5-algo-lib-cs.dll
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\bin\Debug\ce100-hw5-algo-lib-cs.pdb
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\obj\Debug\ce100-hw5-algo-test-cs.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\obj\Debug\ce100-hw5-algo-test-cs.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\obj\Debug\ce100-hw5-algo-test-cs.csproj.CopyComplete
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\obj\Debug\ce100-hw5-algo-test-cs.dll
+C:\Users\Ömer Faruk Varlı\source\repos\ce100-hw5-algo-lib-cs\ce100-hw5-algo-test-cs\obj\Debug\ce100-hw5-algo-test-cs.pdb
